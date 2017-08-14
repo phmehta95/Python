@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def factorial(x):
 	y=1
 	for i in range(x):
@@ -5,4 +6,13 @@ def factorial(x):
 	return y
 		
     
+=======
+def factorial(x):
+	y=1
+	for i in range(x):
+		y = y * (i + 1)
+	return y
+		
+    
+>>>>>>> 323d3b3c2ae89d31c47c4890ff6b40bf632f1b0d
 print factorial(4)

@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 def count(sequence,item):
 	sum = 0
 	for i in sequence:
  		if i == item:
    			sum += 1
   	return sum
+=======
+def count(sequence,item):
+	sum = 0
+	for i in sequence:
+ 		if i == item:
+   			sum += 1
+  	return sum
+>>>>>>> 323d3b3c2ae89d31c47c4890ff6b40bf632f1b0d
   

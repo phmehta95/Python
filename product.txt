@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 def product(list):
   total= 1
   for i in list:
     total = total*(i)
+=======
+def product(list):
+  total= 1
+  for i in list:
+    total = total*(i)
+>>>>>>> 323d3b3c2ae89d31c47c4890ff6b40bf632f1b0d
   return total 

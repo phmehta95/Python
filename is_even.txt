@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 def is_even(x):
   if x % 2 ==0:
     return True
   else:
   	return False
  
+=======
+def is_even(x):
+  if x % 2 ==0:
+    return True
+  else:
+  	return False
+ 
+>>>>>>> 323d3b3c2ae89d31c47c4890ff6b40bf632f1b0d
 print is_even(67)

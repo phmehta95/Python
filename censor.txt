@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 def censor(text,word):
   if word in text:
   	text = text.replace(word,"*" * len(word))
   return text
+=======
+def censor(text,word):
+  if word in text:
+  	text = text.replace(word,"*" * len(word))
+  return text
+>>>>>>> 323d3b3c2ae89d31c47c4890ff6b40bf632f1b0d
   	
