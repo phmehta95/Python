@@ -1,14 +1,8 @@
-<<<<<<< HEAD
 def purify(list):
   new_list=[]
   for i in list:
     if i%2 == 0:
     	new_list.append(i)
-=======
-def purify(list):
-  new_list=[]
-  for i in list:
-    if i%2 == 0:
-    	new_list.append(i)
->>>>>>> 323d3b3c2ae89d31c47c4890ff6b40bf632f1b0d
   return new_list
+
+print (purify([1,2,2,4,5,5,7]))
